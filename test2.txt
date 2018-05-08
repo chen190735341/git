@@ -2,3 +2,5 @@ text 2 file
 test
 add new line
 branch dev
+master branch
+feature1 branch
